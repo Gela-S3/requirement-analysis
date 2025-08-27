@@ -37,3 +37,6 @@ The process forces everyone to get on the same page. It ensures that the develop
 # Forms the Foundation for Design and Testing: 
 
 The documented requirements serve as the foundation for all subsequent phases. The system's design is built directly from the requirements, and test cases are written to verify that each requirement has been correctly implemented. Without a strong foundation, the rest of the development process is built on shaky ground.
+
+### Why is Requirement Analysis Important?
+
