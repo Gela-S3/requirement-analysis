@@ -122,3 +122,7 @@ Receive Confirmation
 View Bookings
 
 Manage Bookings (create/edit/cancel)
+
+
+
+Acceptance Criteria
