@@ -56,3 +56,31 @@ Requirement Analysis is a comprehensive process that involves several key activi
 - Requirement Documentation: This is the process of formally writing down all the analyzed and agreed-upon requirements. The output is a Software Requirements Specification (SRS) document, which serves as a formal contract between the development team and the stakeholders, detailing all functional and non-functional requirements.
 
 - Requirement Validation: The final activity is to review and confirm that the documented requirements are accurate, complete, and feasible. This is a critical step where stakeholders and developers check the SRS document to ensure it reflects their true needs and expectations before the project moves into the design and development phases.
+
+
+
+Functional Requirements
+Functional requirements define what the system must do. They are the specific behaviors and functions of the software, often expressed as user stories or system-level features. These are the core capabilities that a user can directly interact with.
+
+Examples for the Restaurant Booking Management System:
+
+The system must allow a customer to search for available tables by date, time, and party size.
+
+The system must allow a customer to reserve a table, providing their name, contact information, and special requests.
+
+The system must send a confirmation email or SMS to the customer after a booking is successfully made.
+
+The system must allow restaurant staff to view, create, edit, and cancel bookings.
+
+Non-functional Requirements
+Non-functional requirements describe how the system performs a certain function. They are constraints on the system's qualities, such as performance, security, usability, and reliability. These requirements are critical for the user experience but are not directly tied to a specific function.
+
+Examples for the Restaurant Booking Management System:
+
+Performance: The system must respond to a table search query within 2 seconds, even during peak hours.
+
+Usability: The booking interface must be intuitive and easy for a first-time user to complete a reservation in under 90 seconds.
+
+Security: Customer data, including names and contact information, must be encrypted and protected against unauthorized access.
+
+Reliability: The system must have a 99.9% uptime and be available 24/7 for customers to make reservations.
