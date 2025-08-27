@@ -86,3 +86,39 @@ Usability: The booking interface must be intuitive and easy for a first-time use
 Security: Customer data, including names and contact information, must be encrypted and protected against unauthorized access.
 
 Reliability: The system must have a 99.9% uptime and be available 24/7 for customers to make reservations.
+
+
+
+Use Case Diagrams
+Use Case Diagrams are a powerful tool in Unified Modeling Language (UML) for visualizing the functionality of a system from the perspective of its users. They illustrate the relationships between actors (users or other systems) and the use cases (the specific functions or services the system provides).
+
+Benefits of Use Case Diagrams:
+
+High-Level View: They provide a simple, high-level overview of a system's functionality, making it easy for both technical and non-technical stakeholders to understand its scope.
+
+Defines Boundaries: They clearly define the boundaries of the system and what it is intended to do.
+
+Identifies Actors: They help identify all the different types of users and external systems that will interact with the software.
+
+Example Use Case Diagram for the Restaurant Booking System
+Below is a representation of the use case diagram for the restaurant booking system, illustrating the key actors and their interactions with the system's functions.
+
+Actors:
+
+Customer: An individual who wants to make a booking.
+
+Restaurant Staff: An employee who manages bookings and tables.
+
+System (external): Represents an external service, such as an SMS or email service, that the system interacts with.
+
+Use Cases:
+
+Search for Tables
+
+Make a Booking
+
+Receive Confirmation
+
+View Bookings
+
+Manage Bookings (create/edit/cancel)
