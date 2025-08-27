@@ -40,3 +40,19 @@ The documented requirements serve as the foundation for all subsequent phases. T
 
 ### Why is Requirement Analysis Important?
 
+
+
+
+### Key Activities in Requirement Analysis
+
+Requirement Analysis is a comprehensive process that involves several key activities to ensure a clear understanding of what a software system must accomplish. Here are the five main activities involved:
+
+- Requirement Gathering: This is the initial phase where information is collected from all relevant stakeholders. This involves understanding their needs, goals, and expectations for the system. Methods often include interviews, surveys, and workshops.
+
+- Requirement Elicitation: This activity is about actively discovering and drawing out both explicit and implicit requirements. It goes beyond simple gathering by using techniques like prototyping and brainstorming to help stakeholders articulate needs they may not have initially considered.
+
+- Requirement Analysis and Modeling: Once requirements are gathered, this activity focuses on examining, organizing, and structuring them. The goal is to identify and resolve any conflicts, ambiguities, or missing information. Diagrams and models, such as Use Case Diagrams and data flow diagrams, are often created to visualize how the system will work.
+
+- Requirement Documentation: This is the process of formally writing down all the analyzed and agreed-upon requirements. The output is a Software Requirements Specification (SRS) document, which serves as a formal contract between the development team and the stakeholders, detailing all functional and non-functional requirements.
+
+- Requirement Validation: The final activity is to review and confirm that the documented requirements are accurate, complete, and feasible. This is a critical step where stakeholders and developers check the SRS document to ensure it reflects their true needs and expectations before the project moves into the design and development phases.
