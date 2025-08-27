@@ -58,6 +58,8 @@ Requirement Analysis is a comprehensive process that involves several key activi
 - Requirement Validation: The final activity is to review and confirm that the documented requirements are accurate, complete, and feasible. This is a critical step where stakeholders and developers check the SRS document to ensure it reflects their true needs and expectations before the project moves into the design and development phases.
 
 
+Types of Requirements"
+
 
 Functional Requirements
 Functional requirements define what the system must do. They are the specific behaviors and functions of the software, often expressed as user stories or system-level features. These are the core capabilities that a user can directly interact with.
